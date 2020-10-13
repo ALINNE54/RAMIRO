@@ -1,0 +1,30 @@
+<html>
+<head>
+ <title> terceira </title>
+<link rel="stylesheet" href="codigo.css">
+</head>
+<body>
+<body bgcolor="orange">
+<div5>
+ <h1>
+<label> FORMAS DE PAGAMENTOS </label> </br>
+   
+   <Label id =" Ltexto"> DEBITO</label></br>
+  <input type="text" id=" Tdebito"></p>
+
+<Label id =" Ltexto"> CREDITO</label></br>
+  <input type="text" id=" Tcredito"></p>
+
+<Label id =" Ltexto"> CPF</label></br>
+  <input type="text" id=" Tcpf"></p>
+
+<Label id =" Ltexto"> PARCELAS</label></br>
+  <input type="text" id=" Tparcelas"></p>
+
+<button> MENU </button>
+</h1>
+<div5>
+
+
+</body>
+</html>
