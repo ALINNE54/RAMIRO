@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <title> material de construção  </title>
+      <link rel="stylesheet"  href="codigo.css">
+      </head>
+     <body>
+   <body bgcolor="orange">
+    <h1><label>VARIEDADES DE TIJOLOS</LABEL></h1>
+   
+   <div class="alinharconteudo">
+           <div class="p tamanhodiv">
+
+ <a href="codigo3.html"</a>
+    <button> TIJOLOS DE VIDRO</button></br></p>
+    <img id="Iaula" src="img/TIJOLOS DE VIDRO.JPG">
+    </div>
+    <div class="p tamanhodiv">
+
+     <a href="codigo3.html"</a>
+       <button>TIJOLOS REFRATARIO</button></br></p>
+    <img id="Iaula" src="img/TIJOLOS REFRATARIO.JPG">
+    </div>
+   <div class="p tamanhodiv">
+
+       <a href="codigo3.html"</a>
+    <button> TIJOLOS DE CERAMICA</button></br></p>
+   <img id="Iaula" src="img/TIJOLOS DE CERAMICA.JPG">
+     </div>
+    <div class="p tamanhodiv">   
+
+
+  <a href="codigo3.html"</a>
+     <button> TIJOLOS DE CONCRETO</button></br></p>
+   <img id="Iaula" src="img/TIJOLOS DE CONCRETO.JPG">
+    </div>
+    <div class="p tamanhodiv">
+
+   <a href="segundaparte.html"</a>
+    <button> MENU</button>
+   <div style="overflow-y: scoll">
+   
+    
+   </div>
+    </body>
+     </html>
