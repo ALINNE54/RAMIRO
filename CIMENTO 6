@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <title> material de construção  </title>
+      <link rel="stylesheet"  href="codigo.css">
+      </head>
+     <body>
+   <body bgcolor="orange">
+    <h1><label>VARIEDADES DE CIMENTO</LABEL></h1>
+   
+   <div class="alinharconteudo">
+           <div class="p tamanhodiv">
+ <a href="codigo3.html"</a>
+    <button> CIMENTO VOTORAN</button></br></p>
+    <img id="Iaula" src="img/CIMENTO VOTORAN.PNG">
+    </div>
+    <div class="p tamanhodiv">
+
+     <a href="codigo3.html"</a>
+       <button>CIMENTO NASSAU</button></br></p>
+    <img id="Iaula" src="img/CIMENTO NASSAU.PNG">
+    </div>
+   <div class="p tamanhodiv">
+
+       <a href="codigo3.html"</a>
+    <button> CIMENTO BRAVO</button></br></p>
+   <img id="Iaula" src="img/CIMENTO BRAVO.PNG">
+     </div>
+    <div class="p tamanhodiv">
+   
+  <a href="codigo3.html"</a>
+     <button> CIMENTO ITAQUI</button></br></p>
+   <img id="Iaula" src="img/CIMENTO ITAQUI.PNG">
+    </div>
+    <div class="p tamanhodiv">
+
+   <a href="segundaparte.html"</a>
+    <button> MENU</button>
+   <div style="overflow-y: scoll">
+ 
+   
+    
+   </div>
+    </body>
+     </html>
