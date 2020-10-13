@@ -1,0 +1,50 @@
+div5{
+        text-align:center;
+        color: blue;
+        widht : 100px;
+         height : 100px;
+}
+
+button{
+              color:blue;
+}
+
+
+
+
+
+h1{
+       text-align:center;
+       font-size: 20px;
+       color:blue;
+     font-family: "calibri";
+
+}
+
+.p {
+          text-align: center;
+          font-size: 16px;
+          color: blue;
+         margin: 2px 2px 2px 2px;
+         padding : 20px 0px 0px 0px;
+         font-family: "calibri";
+}
+
+
+.tamanhodiv{
+            float:left20;
+             widht:40%;
+}
+
+.alinharconteudo{
+   margin-left;
+}
+
+
+img {
+     text-align: center;
+    border : 5px;
+     widht : 200px;
+     height : 200px;
+    
+}
