@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <title> material de construção  </title>
+      <link rel="stylesheet"  href="codigo.css">
+      </head>
+     <body>
+   <body bgcolor="orange">
+    <h1><label>VARIEDADES DE MADEIRAS </LABEL></h1>
+   
+   <div class="alinharconteudo">
+           <div class="p tamanhodiv">
+
+ <a href="codigo3.html"</a>
+    <button> MADEIRA DE 5 METROS</button></br></p>
+    <img id="Iaula" src="img/MADEIRAS DE 5 METROS.JPG">
+    </div>
+    <div class="p tamanhodiv">
+
+
+     <a href="codigo3.html"</a>
+       <button>MADEIRA DE 10 METROS</button></br></p>
+    <img id="Iaula" src="img/MADEIRAS DE 10 METROS.JPG">
+    </div>
+   <div class="p tamanhodiv">
+
+
+       <a href="codigo3.html"</a>
+    <button> MADEIRA DE 15 METROS</button></br></p>
+   <img id="Iaula" src="img/MADEIRAS DE 15 METROS.JPG">
+     </div>
+    <div class="p tamanhodiv">  
+
+ 
+  <a href="codigo3.html"</a>
+     <button> MADEIRA DE 20 METROS</button></br></p>
+   <img id="Iaula" src="img/MADEIRAS DE 20 METROS.JPG">
+    </div>
+    <div class="p tamanhodiv">
+
+   <a href="segundaparte.html"</a>
+    <button> MENU</button>
+   
+    <div style="overflow-y: scoll">
+    
+   </div>
+    </body>
+     </html>
