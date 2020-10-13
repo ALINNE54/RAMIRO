@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <title> material de construção  </title>
+      <link rel="stylesheet"  href="codigo.css">
+      </head>
+     <body>
+   <body bgcolor="orange">
+    <h1><label>VARIEDADES DE TELHAS</LABEL></h1>
+   
+   <div class="alinharconteudo">
+           <div class="p tamanhodiv">
+
+
+ <a href="ULTIMA PARTEE.html"</a>
+    <button> TELHAS DE CERAMICA 25,00</button></br></p>
+    <img id="Iaula" src="img/CERAMICA.JPG">
+    </div>
+    <div class="p tamanhodiv">
+
+
+     <a href="codigo3.html"</a>
+       <button>TELHAS DE VIDRO 70,00</button></br></p>
+    <img id="Iaula" src="img/VIDRO.JPG">
+    </div>
+   <div class="p tamanhodiv">
+
+
+      <a href="codigo3.html"</a> 
+    <button> TELHA ESMALTADAS 30,00</button></br></p>
+   <img id="Iaula" src="img/ESMALTADA.JPG">
+     </div>
+    <div class="p tamanhodiv">   
+
+
+  <a href="codigo3.html"</a>
+     <button> TELHA DE CONCRETO 40,00</button></br></p>
+   <img id="Iaula" src="img/CONCRETO.JPG">
+    </div>
+    <div class="p tamanhodiv">
+
+      <a href="segundaparte.html"</a>
+    <button> MENU</button>
+   
+    <div style="overflow-y: scoll">
+   </div>
+    </body>
+     </html>
